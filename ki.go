@@ -1,2 +1,2 @@
-// Package ki is a new package.
+// Package ki implements fresh Kubernetes installation.
 package ki
